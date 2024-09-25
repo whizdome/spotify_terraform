@@ -1,1 +1,1 @@
-api_key = "BoTHyHGCRLHL1i5-QoGI2p60T5rLAIZ57aYXUEV4GqhYIE-cfHiXOm3pZJNzIib8"
+api_key = "<replace with your Spotify API key>"
